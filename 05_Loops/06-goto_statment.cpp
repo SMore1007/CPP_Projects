@@ -20,7 +20,6 @@ int main()
         if (val != 0)
         {
             goto Goto_Label;
-            ;
         }
         
         cout << "now you entered 0 " << endl;
