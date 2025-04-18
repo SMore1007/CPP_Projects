@@ -67,7 +67,7 @@ These operators combine or modify boolean expressions.
 | Operator | Name        | Description                                        | Example           | Result (if a=true, b=false) |
 | :------- | :---------- | :------------------------------------------------- | :---------------- | :-------------------------- |
 | `&&`     | Logical AND | Returns true if both operands are true             | `a && b`          | `false`                     |
-| `||`     | Logical OR  | Returns true if at least one operand is true        | `a || b`          | `true`                      |
+|  ||    | Logical OR  | Returns true if at least one operand is true        |   a || b            | `true`                      |
 | `!`      | Logical NOT | Reverses the logical state of its operand           | `!a`              | `false`                     |
 
 ## 5. Bitwise Operators
